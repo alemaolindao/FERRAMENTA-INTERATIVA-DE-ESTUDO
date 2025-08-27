@@ -21,3 +21,9 @@ criaCartao(
     'existe algum campeão de armageddon usando um gol?',
     'sim, a 13ª edição do armageddon teve um campeão usando um gol ap 16v.'
 )
+
+criaCartao(
+    'Carros preparados',
+    'existe um modelo de gol que veio turbo de fabrica?',
+    'sim, alguns modelos do volkswagen gol veio turbo de fabrica, mas são raros de achar.'
+)
