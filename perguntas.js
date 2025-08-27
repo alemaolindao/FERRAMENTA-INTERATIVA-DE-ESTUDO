@@ -18,12 +18,18 @@ criaCartao(
 
 criaCartao(
     'Carros preparados',
-    'existe algum campeão de armageddon usando um gol?',
-    'sim, a 13ª edição do armageddon teve um campeão usando um gol ap 16v.'
+    'Existe algum campeão de armageddon usando um gol?',
+    'Sim, a 13ª edição do armageddon teve um campeão usando um gol ap 16v.'
 )
 
 criaCartao(
     'Carros preparados',
-    'existe um modelo de gol que veio turbo de fabrica?',
-    'sim, alguns modelos do volkswagen gol veio turbo de fabrica, mas são raros de achar.'
+    'Existe um modelo de gol que veio turbo de fabrica?',
+    'Sim, alguns modelos do volkswagen gol veio turbo de fabrica, mas são raros de achar.'
+)
+
+criaCartao(
+    'Carros preparados',
+    'As customizações do motor AP são caras?',
+    'Depende do quanto de potência você quer extrair do motor, se for até 500cv de roda não fica tão caro, aproximadamente 150k para fazer uma boa preparação, mas se for mais que 500cv você gasta mais que 200k..'
 )
