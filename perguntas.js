@@ -20,3 +20,4 @@ criaCartao(
     'Carros preparados',
     'existe algum campeão de armageddon usando um gol?',
     'sim, a 13ª edição do armageddon teve um campeão usando um gol ap 16v.'
+)
